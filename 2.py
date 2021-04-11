@@ -216,8 +216,6 @@ print('\n--------Local sorting of your medias basd on progress are:---------\n')
 sorted_medias=sorting_progress(dict_medias)
 show_all_medias(sorted_medias)
         
-
-
 '''
 Input samples:
 A sample of magazine:
